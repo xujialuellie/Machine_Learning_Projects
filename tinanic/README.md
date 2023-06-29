@@ -1,4 +1,4 @@
-# :passenger_ship:Titanic - Machine Learning / Data Analysis Project
+# Titanic - Machine Learning / Data Analysis Project
 
 ## Framework
 
